@@ -95,7 +95,7 @@ a:visited {
 
 a:hover,
 a:active {
-  cursor: grab;
+  cursor: pointer;
   color: hsl(47, 88%, 63%);
 }
 
